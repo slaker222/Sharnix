@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### Sharnix is a ShareX alternative for Linux. It replicates the functionality of the Windows program ShareX and its basic features: screenshot gallery, OCR, cloud upload, detailed editing, coordinate display, and text addition. It's a good option for screenshots on Linux
+### Sharnix is a ShareX alternative for Linux. It replicates the functionality of the Windows program ShareX and its basic features: screenshot gallery, OCR, cloud upload, detailed editing, coordinate display, and text addition. It's a good option for screenshots on Linux . Works on Wayland and x11
 
 <br><br>
 
